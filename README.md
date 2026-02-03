@@ -1,6 +1,6 @@
 # Simple Escrow Smart Contract (Rust)
 
-A secure, state-based escrow agreement built in Rust for the **Build-And-Learn-Week** challenge.
+A secure, state-based escrow agreement built in Rust.
 
 ## Contract Summary
 This contract facilitates a trust-minimized transaction between a `Buyer` and a `Seller`. 
